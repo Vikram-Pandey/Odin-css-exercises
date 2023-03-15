@@ -1,0 +1,18 @@
+.pinkCol {
+  background-color: pink;
+}
+
+.pinkCol.weightClass {
+  font-size: 25px;
+}
+
+#blueId {
+  font-size: 30px;
+  color: blue;
+}
+
+#greenId {
+  background-color: lightgreen;
+  font-size: 18px;
+  font-weight: 700;
+}
