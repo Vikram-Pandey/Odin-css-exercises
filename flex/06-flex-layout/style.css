@@ -75,6 +75,8 @@ button {
   margin-top: auto;
 }
 
+/* removes . in front of li */
+
 li {
   list-style-type: none;
 }
